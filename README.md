@@ -9,8 +9,8 @@
   Esse projeto foi desenvolvido durante o NLW da Rocketset com as seguintes tecnologias:
 
   - HTML
-  -CSS
-  -Git e Github
+  - CSS
+  - Git e Github
 
   ## 🏷️ Layout
   Você pode visualizar o layout do projeto através 
